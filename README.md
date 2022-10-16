@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @reuben-rotich
+- 👀 I’m interested in software development in PHP, Python and Javascript
+- 🌱 I’m currently learning DevOps
+- 📫 How to reach me #reubenbomett@gmail.com
